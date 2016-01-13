@@ -5,6 +5,12 @@ failures, compiles and uploads them to dpaste.com. Additionally, it copies the
 dpaste.com link to your clipboard, so you can share the test issues you are
 experiencing with your colleagues.
 
+**Why Dpaste.com not Pastebin or the others?**
+
+Because dpaste.com has a very simple and open API, which does not need any API
+keys and/or authentication. Honestly, I just did not want to bother with all
+that stuff.
+
 ## Installation
 
 Add this line to your application's Gemfile:

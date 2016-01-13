@@ -32,7 +32,7 @@ Or install it yourself as:
 In your `test_helper.rb`, after the line that requires Minitest, add this:
 
 ```ruby
-require minitest/paste
+require "minitest/paste"
 ```
 
 Then, to use the plugin when running your tests, add the `--paste` switch. After,
